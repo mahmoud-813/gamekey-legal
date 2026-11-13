@@ -1,6 +1,6 @@
 # GameKey — public legal documents
 
-This repository contains the public legal pages for **Cheats for GTA 6**, an unofficial game-reference app published by **Mahmoud Hasan**.
+This repository contains the public legal pages for **Cheats for GTA 6: Guide** (iOS app version **1.0.0**), an unofficial game-reference app published by **Mahmoud Hasan**.
 
 - [Privacy Policy](https://mahmoud-813.github.io/gamekey-legal/privacy.html)
 - [Terms of Use](https://mahmoud-813.github.io/gamekey-legal/terms.html)
